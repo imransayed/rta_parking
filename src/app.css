@@ -1,0 +1,15 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+ActionBar {
+  background-color: #65adf1;
+  color: white;
+}
+
+.floating-window {
+  background-color: rgba(255, 255, 255, 0.9);
+  border-radius: 10;
+  padding: 10;
+  margin: 10;
+}
